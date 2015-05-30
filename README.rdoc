@@ -13,6 +13,8 @@ SeuRAUL também!
 
 == README
 
+{<img src="https://badges.gitter.im/Join%20Chat.svg" alt="Join the chat at https://gitter.im/4Soft/curso4git">}[https://gitter.im/4Soft/curso4git?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge]
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
